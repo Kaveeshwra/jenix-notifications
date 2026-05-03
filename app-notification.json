@@ -1,14 +1,6 @@
-[
-  {
-    "id": "offer1",
-    "title": "JENIX Offer",
-    "message": "New arrivals just landed",
-    "time": "2026-05-4 05:16:00"
-  },
-  {
+{
     "id": "offer2",
     "title": "Flash Sale",
     "message": "50% discount now live",
-    "time": "2026-05-04 05:15:00"
+    "time": "2026-05-04 05:25:00"
   }
-]
