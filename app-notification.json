@@ -1,8 +1,14 @@
 [
   {
-    "id": "offer7",
+    "id": "offer8",
     "title": "New Update",
     "message": "Check Out New Elegance Saree Collection",
     "time": "2026-05-06 02:00:00"
+  },
+  {
+    "id": "offer9",
+    "title": "New Update",
+    "message": "Alvee Collection Adding Today",
+    "time": "2026-05-06 01:00:00"
   }
 ]
