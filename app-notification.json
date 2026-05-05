@@ -1,20 +1,8 @@
 [
   {
-    "id": "offer3",
+    "id": "offer5",
     "title": "Flash offer 3",
     "message": "testing alram",
-    "time": "2026-05-05 00:34:00"
-  },
-  {
-    "id": "offer4",
-    "title": "Flash testing offer 4",
-    "message": "testing alram",
-    "time": "2026-05-05 00:35:00"
-  },
-  {
-    "id": "offer2",
-    "title": "Flash testing offer 2 duplicate",
-    "message": "testing alram",
-    "time": "2026-05-05 00:35:00"
+    "time": "2026-05-05 18:34:00"
   }
 ]
