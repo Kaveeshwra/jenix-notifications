@@ -1,14 +1,38 @@
 [
   {
-    "id": "offer12",
+    "id": "offer14",
     "title": "Elegance Saree",
     "message": "Check Out New Elegance Saree Collection",
-    "time": "2026-05-07 05:00:00"
+    "time": "2026-05-08 06:00:00"
   },
   {
-    "id": "offer13",
+    "id": "offer15",
     "title": "Alvee",
     "message": "Alvee Collection Adding Today",
-    "time": "2026-05-06 18:15:00"
+    "time": "2026-05-07 18:15:00"
+  },
+  {
+    "id": "offer16",
+    "title": "Elegance Saree",
+    "message": "Check Out New Elegance Saree Collection",
+    "time": "2026-05-07 22:00:00"
+  },
+  {
+    "id": "offer17",
+    "title": "Alvee",
+    "message": "Alvee Collection Adding Today",
+    "time": "2026-05-08 18:15:00"
+  },
+  {
+    "id": "offer18",
+    "title": "Elegance Saree",
+    "message": "Check Out New Elegance Saree Collection",
+    "time": "2026-05-09 09:00:00"
+  },
+  {
+    "id": "offer19",
+    "title": "Alvee",
+    "message": "Alvee Collection Adding Today",
+    "time": "2026-05-09 14:15:00"
   }
 ]
